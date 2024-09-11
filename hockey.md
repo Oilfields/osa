@@ -21,4 +21,6 @@ Practices are located at the Scott Seaman Outdoor Rink located behind Oilfields 
 
 ## Game Schedules
 
-The Foothills Recreational Hockey League Coordinators will be meeting at the start of September to create our game schedule. This schedule will be shared with registered players in October. Collectively our goal as league coordinators is to not have that master schedule change once it's been distributed (except for a cancellation or two due to extreme weather conditions, fingers crossed). Games will be played in Black Diamond, Millarville, Priddis, Bragg Creek/Redwood Meadows and possibly Cochrane, Morley and Canmore. The season will start the first week of November and go until the last week of February.
+The Foothills Recreational Hockey League Coordinators will be meeting at the start of September to create our game schedule. This schedule will be shared with registered players in October. Collectively our goal as league coordinators is to not have that master schedule change once it's been distributed (except for a cancellation or two due to extreme weather conditions, fingers crossed). Games will be played in Black Diamond, Millarville, Priddis, and Bragg Creek/Redwood Meadows. The season will start the first week of November and go until the last week of February.
+
+Year end tournament location and dates TBD. Will be announced through TeamLinkt. 
