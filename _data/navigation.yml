@@ -4,7 +4,7 @@
   schedule: /hockey_schedule.html
   contact: oilfieldsphantoms@gmail.com
   contactName: Shannon
-  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation2
+  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation21
   emoji: 🏒
 - name: Soccer
   link: /soccer.html
@@ -12,7 +12,7 @@
   schedule: /soccer_schedule.html
   contact: oilfieldsoccer@gmail.com
   contactName: Will
-  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation2
+  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation21
   emoji: ⚽️
 - name: Baseball
   link: /baseball.html
@@ -20,7 +20,7 @@
   schedule: /baseball_schedule.html
   contact: oilfieldbaseball@gmail.com
   contactName: Bryce
-  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation2
+  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation21
   emoji: ⚾️
 - name: Basketball
   link: /basketball.html
@@ -28,5 +28,5 @@
   schedule: /basketball_schedule.html
   contact: oilfieldsbasketball@gmail.com
   contactName: Dale
-  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation2
+  register: https://app.teamlinkt.com/register/find/oilfieldsportsassociation21
   emoji: 🏀
