@@ -18,39 +18,32 @@ Oilfields Regional Arena
 
 ## Dates & Times:
 
-2024 Session: April 3rd – May 8th
+2025 Session: April 1st – May 8th
 
-- U7: Three groups from 6:00 to 6:50 pm
-- U9: Three groups from 7:00 to 7:50 pm
-- U13: Three groups from 8:00 to 8:50 pm
+Tuesdays:
+
+U7 : Three groups from 5:00 to 6:00 pm
+
+U11: Three groups from 6:30 to 8:00 pm
+
+Thursdays
+
+U9 : Three groups from 5:00 to 6:00 pm
+
+U13: Three groups from 6:30 to 8:00 pm
 
 ## Set Up:
 
-Age groups are as follows:
-Group 1 (ages 6-7) - For players born in
-
-<script>document.write(new Date().getFullYear() - 7);</script> and
-<script>document.write(new Date().getFullYear() - 6);</script>
-
-Group 2 (ages 8-9) - For players born in
-
-<script>document.write(new Date().getFullYear() - 9);</script> and
-<script>document.write(new Date().getFullYear() - 8);</script>
-
-Group 3 (ages 10-12) - For players born in
-
-<script>document.write(new Date().getFullYear() - 12);</script> to
-<script>document.write(new Date().getFullYear() - 10);</script>
-
-Practice is being held in the Oilfields Regional Arena after the ice has been removed
-All groups practice at the same time.
-One main coach and one assistant coach will guide the participants through the practice (please volunteer if you can as an assistant coach).
-One practice a week - Wednesday 6:15 pm-7:15 pm
-We will take regular water breaks. Each child brings their own water bottle.
-Appropriate running shoes are required.
-Oilfields High school Basketball Varsity Team members will help out with one or two of the practices
-Sportsmanship will be taught and expected.
-Opportunity to take part in Black Diamond Parade.
+- Practice is being held in the Oilfields Regional Arena after the ice has been removed
+- All groups practice at the same time.
+- One main coach and one assistant coach will guide the participants through the practice (please volunteer if you can as an assistant coach).
+- One practice a week for each age group
+- We will take regular water breaks. Each child brings their own water bottle.
+- Reversable jersey will be provided.  
+- DRESS WARM. The arena will be chili during the practices. There is a heater for the stands that is on a timer and can be activated.
+- Please have your child wear a t-shirt under the provided Jersey so we can change colours without needing to leave the court.
+- Appropriate running shoes are required.
+- Sportsmanship will be taught and expected.
 
 ## Expectations/Skill development
 
