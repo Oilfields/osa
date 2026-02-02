@@ -24,13 +24,13 @@ Tuesdays:
 
 U7 : Three groups from 5:00 to 6:00 pm
 
-U11: Three groups from 6:30 to 8:00 pm
+U13: Three groups from 6:30 to 8:00 pm
 
 Thursdays
 
 U9 : Three groups from 5:00 to 6:00 pm
 
-U13: Three groups from 6:30 to 8:00 pm
+U11: Three groups from 6:30 to 8:00 pm
 
 ## Set Up:
 
