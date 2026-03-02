@@ -19,6 +19,7 @@ Oilfields Regional Arena
 ## Dates & Times:
 
 2026 Session: April 7 – May 14
+
 Tuesdays:
 
 U7 : Three groups from 5:00 to 6:00 pm
