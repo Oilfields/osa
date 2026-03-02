@@ -8,7 +8,7 @@ President: {{site.data.executives.President.name}}
 
 Vice President: {{site.data.executives.Vice-President.name}}
 
-Treasurer: {{site.data.executives.Treasurer.name}}
+Treasurer: {{site.data.executives.Treasurer.Stefanie Schulz}}
 
 ### General Inquiries:
 [{{site.data.executives.President.email}}](mailto:{{-site.data.executives.President.email-}})
