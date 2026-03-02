@@ -11,7 +11,7 @@ Oilfields Regional Arena
 
 ## Dates & Times:
 
-2025 Session: April 1st – May 8th
+2026 Session: April 7 – May 14
 
 Tuesdays:
 
