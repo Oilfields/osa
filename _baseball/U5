@@ -1,0 +1,25 @@
+---
+maxage: 5
+minage: 3
+layout: default
+fee: $50
+title: Ralley Cap (Teeball)
+time: Wednesday, 5:30 - 6:15 pm
+location: Turner Valley Diamond
+---
+
+- Girls & Boys (no travel)
+
+- {{ page.time }}
+
+{% if page.location %}
+
+- Home games and practices at {{ page.location }}
+
+{% endif %}
+
+- Equipment Required:
+  - CSA Approved Helmet
+  - Baseball Glove
+  - Bat
+  - Shoes
